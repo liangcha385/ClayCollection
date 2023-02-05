@@ -1,0 +1,10 @@
+{
+  "shift.lore": "按下 §eshift §f查看更多信息...",
+  "itemGroup.cardtab": "粘土收藏|卡牌",
+  "item.claycollection.business_card": "某人的名片",
+  "item.claycollection.card": "空白卡牌",
+  "item.business_card.lore1": "§7虽然看不懂名字,但是公司应该干的是找矿石的活",
+  "item.business_card.lore2": "§7右键寻找脚下矿石",
+  "business_card.found": "找到方块",
+  "business_card.notfound": "未找到相关方块!"
+}

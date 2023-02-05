@@ -1,0 +1,10 @@
+{
+  "shift.lore": "Press §eshift §fto view more information",
+  "itemGroup.cardtab": "ClayCollection|Card",
+  "item.claycollection.business_card": "Business Card",
+  "item.claycollection.card": "Card",
+  "item.business_card.lore1": "§7Although I can't understand the name, what the company should do is to find minerals",
+  "item.business_card.lore2": "§7Right click to find the ore below",
+  "business_card.found": "Found a block",
+  "business_card.notfound": "Not found blocks !"
+}
